@@ -1,0 +1,10 @@
+{
+  "id": "pdf-editor",
+  "name": "PDF Editor",
+  "icon": "file-pen-line",
+  "category": "office",
+  "version": "0.1.3",
+  "entry": "index.js",
+  "style": "style.css",
+  "description": "Open a PDF, add text and a signature, export the result."
+}
